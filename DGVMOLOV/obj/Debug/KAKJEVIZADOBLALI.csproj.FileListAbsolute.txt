@@ -1,0 +1,10 @@
+C:\Users\DIO\source\repos\KAKJEVIZADOBLALI\bin\Debug\KAKJEVIZADOBLALI.exe.config
+C:\Users\DIO\source\repos\KAKJEVIZADOBLALI\bin\Debug\KAKJEVIZADOBLALI.exe
+C:\Users\DIO\source\repos\KAKJEVIZADOBLALI\bin\Debug\KAKJEVIZADOBLALI.pdb
+C:\Users\DIO\source\repos\KAKJEVIZADOBLALI\obj\Debug\KAKJEVIZADOBLALI.csprojAssemblyReference.cache
+C:\Users\DIO\source\repos\KAKJEVIZADOBLALI\obj\Debug\KAKJEVIZADOBLALI.Form1.resources
+C:\Users\DIO\source\repos\KAKJEVIZADOBLALI\obj\Debug\KAKJEVIZADOBLALI.Properties.Resources.resources
+C:\Users\DIO\source\repos\KAKJEVIZADOBLALI\obj\Debug\KAKJEVIZADOBLALI.csproj.GenerateResource.cache
+C:\Users\DIO\source\repos\KAKJEVIZADOBLALI\obj\Debug\KAKJEVIZADOBLALI.exe
+C:\Users\DIO\source\repos\KAKJEVIZADOBLALI\obj\Debug\KAKJEVIZADOBLALI.pdb
+C:\Users\DIO\source\repos\KAKJEVIZADOBLALI\bin\Debug\mybd.mdb
